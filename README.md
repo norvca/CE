@@ -1,1 +1,1 @@
-## [Mind map](https://norvca.github.io/ce/)
+## [Homepage](https://norvca.github.io/ce/)
